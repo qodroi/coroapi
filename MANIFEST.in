@@ -1,0 +1,2 @@
+include coroapi/*.json
+recursive-include coroapi *.json *.py
